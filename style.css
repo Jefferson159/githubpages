@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+
+body {
+
+  background-color: rgb(34, 32, 32);
+
+}
+
+.imagens {
+  background-position: 200px 70px;
+  position: absolute;
+  left: 200px;
+  margin-top: 15vh;
+}
+
+ul {
+  color: rgb(112, 37, 37);
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  align-items: center;
+  padding: 10px;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  color: blueviolet;
+
+}
+
